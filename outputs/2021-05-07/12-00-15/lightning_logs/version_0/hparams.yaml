@@ -1,0 +1,4 @@
+base_filters: 32
+n_classes: 50
+optim:
+  lr: 0.0003
